@@ -5,7 +5,6 @@
 # System Required:  CentOS 6+, Debian7+, Ubuntu12+
 #
 
-# URL: https://teddysun.com/489.html
 #
 
 red='\033[0;31m'
