@@ -4,8 +4,7 @@
 #
 # System Required:  CentOS 6+, Debian7+, Ubuntu12+
 #
-# Copyright (C) 2016-2018 Teddysun <i@teddysun.com>
-#
+
 # URL: https://teddysun.com/489.html
 #
 
@@ -379,7 +378,6 @@ echo " Kernel  : $kern"
 echo "----------------------------------------"
 echo " Auto install latest kernel for TCP BBR"
 echo
-echo " URL: https://teddysun.com/489.html"
 echo "----------------------------------------"
 echo
 echo "Press any key to start...or Press Ctrl+C to cancel"
