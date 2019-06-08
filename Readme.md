@@ -6,8 +6,4 @@ wget --no-check-certificate -O shadowsocks-all.sh https://github.com/liyubaku/in
 
 yum -y install wget
 
-安装bbr
-
-wget --no-check-certificate https://github.com/liyubaku/install/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
-
 
