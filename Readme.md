@@ -4,6 +4,10 @@ yum install -y wget && wget --no-check-certificate -O shadowsocks-all.sh https:/
 
 安装 simple-obfs , 选择 http 模式
 
+一键安装原版BBR
+
+wget --no-check-certificate https://github.com/liyubaku/install/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
+
 卸载方法
 若已安装多个版本，则卸载时也需多次运行（每次卸载一种）
 使用root用户登录，运行以下命令：
