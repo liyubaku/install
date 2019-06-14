@@ -8,6 +8,12 @@ yum install -y wget && wget --no-check-certificate -O shadowsocks-all.sh https:/
 
 wget --no-check-certificate https://github.com/liyubaku/install/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
 
+查看状态
+systemctl status shadowsocks-libev
+重启服务
+systemctl restart shadowsocks-libev
+
+
 卸载方法
 若已安装多个版本，则卸载时也需多次运行（每次卸载一种）
 使用root用户登录，运行以下命令：
